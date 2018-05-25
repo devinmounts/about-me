@@ -6,7 +6,7 @@
   background-image: url("agro1.jpg");
 }
 .tree{
-  background-repeat: repeat-x;
+
   background-size: auto;
 }
 /*.nav{
@@ -51,5 +51,5 @@ background-color: #f2cedd;
 .thumb{
   max-width: 100px;
   max-height: 150px;
-  float: right;
+  float: ;
   }
