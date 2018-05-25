@@ -31,6 +31,18 @@ header{
   font-style: italic;
 }
 
-.description{
+.bg-green{
+  background-color: #f5fffa;
+}
 
+.bg-blue{
+  background-color: #f5faff;
+}
+
+.bg-orange{
+background-color: #d8924b; 
+}
+
+.date{
+  padding: 10px;
 }
