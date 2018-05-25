@@ -21,3 +21,16 @@ header{
   font-size: 40pt;
   font-family: cursive;
 }
+
+.employer{
+  font-weight: bold;
+  text-decoration: underline;;
+}
+
+.position{
+  font-style: italic;
+}
+
+.description{
+
+}
