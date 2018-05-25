@@ -47,3 +47,9 @@ background-color: #f2cedd;
 .date{
   padding: 10px;
 }
+
+.thumb{
+  max-width: 100px;
+  max-height: 150px;
+  float: right;
+  }
