@@ -8,9 +8,11 @@ header{
 .tree{
   max-height: 200px;
   max-width: 200px;
+  padding: 10px;
+  
 }
-.nav{
-  float: right;
+/*.nav{
+  float: right;*/
 }
 
 .no-bullets{
@@ -40,7 +42,7 @@ header{
 }
 
 .bg-orange{
-background-color: #d8924b;
+background-color: #f2cedd;
 }
 
 .date{
