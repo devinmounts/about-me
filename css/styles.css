@@ -3,7 +3,7 @@
 }*/
 
 header{
-  background-color: forestgreen;
+  background: linear-gradient(to top, #01bc4c, #f2d602);
 }
 .tree{
   max-height: 200px;
@@ -40,7 +40,7 @@ header{
 }
 
 .bg-orange{
-background-color: #d8924b; 
+background-color: #d8924b;
 }
 
 .date{
