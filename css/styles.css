@@ -2,14 +2,11 @@
   border: solid red 1px;
 }*/
 
-header{
-  background: linear-gradient(to top, #01bc4c, #f2d602);
+.header{
+  background-image: url("agro1.jpg");
 }
 .tree{
-  max-height: 200px;
-  max-width: 200px;
-  padding: 10px;
-
+  background-repeat: repeat-x;
 }
 /*.nav{
   float: right;*/
@@ -33,12 +30,12 @@ header{
   font-style: italic;
 }
 
-.bg-green{
+.col-md-9 .bg-green{
   background-color: #f5fffa;
   line-height: 30px;
 }
 
-.bg-blue{
+.col-md-6 .bg-blue{
   background-color: #f5faff;
 }
 
