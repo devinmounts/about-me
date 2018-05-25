@@ -9,7 +9,7 @@ header{
   max-height: 200px;
   max-width: 200px;
   padding: 10px;
-  
+
 }
 /*.nav{
   float: right;*/
@@ -35,6 +35,7 @@ header{
 
 .bg-green{
   background-color: #f5fffa;
+  line-height: 30px;
 }
 
 .bg-blue{
