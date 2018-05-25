@@ -1,5 +1,16 @@
-{
+/**{
   border: solid red 1px;
+}*/
+
+header{
+  background-color: forestgreen;
+}
+.tree{
+  max-height: 200px;
+  max-width: 200px;
+}
+.nav{
+  float: right;
 }
 
 .no-bullets{
