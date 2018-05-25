@@ -1,5 +1,6 @@
 .header{
   background-image: url("agro1.jpg");
+  background-size: 100%;
 }
 
 .no-bullets{
@@ -51,4 +52,8 @@ background-color: #f2cedd;
 .jumbotron{
   background-color: #f2cedd;
   text-align: center;
+}
+
+body{
+  background: linear-gradient(gray, white);
 }
