@@ -12,6 +12,7 @@ _This webpage is an introductory attmept at creating a site that will describe w
 
 * _Copy and paste IO into web browser_
 * _devinmounts.github.io/portfolio-landing-page_
+* _http://github.com/devinmounts/portfolio-landing-page.git_
 
 ## Support and contact details
 
