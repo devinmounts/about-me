@@ -1,16 +1,5 @@
-/**{
-  border: solid red 1px;
-}*/
-
 .header{
   background-image: url("agro1.jpg");
-}
-.tree{
-
-  background-size: auto;
-}
-/*.nav{
-  float: right;*/
 }
 
 .no-bullets{
@@ -52,4 +41,4 @@ background-color: #f2cedd;
   max-width: 100px;
   max-height: 150px;
   float: ;
-  }
+}
