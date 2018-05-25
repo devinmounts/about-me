@@ -42,3 +42,8 @@ background-color: #f2cedd;
   max-height: 150px;
   float: ;
 }
+.well h2{
+  border: solid black 2px;
+  margin: 5px;
+  padding: 10px;
+}
