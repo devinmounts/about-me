@@ -11,7 +11,7 @@ _This webpage is an introductory attmept at creating a site that will describe w
 ## Setup/Installation Requirements
 
 * _Copy and paste IO into web browser_
-* _http://devinmounts.github.io/portfolio-landing-page_
+* _http://devinmounts.github.io/portfolio-landing-page.git_
 * _http://github.com/devinmounts/portfolio-landing-page.git_
 
 ## Support and contact details
