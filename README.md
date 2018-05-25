@@ -13,10 +13,6 @@ _This webpage is an introductory attmept at creating a site that will describe w
 * _Copy and paste IO into web browser_
 * _devinmounts.github.io/portfolio-landing-page_
 
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
 ## Support and contact details
 
 _Please contact me by email for any questions or suggestions_
